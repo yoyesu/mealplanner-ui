@@ -4,7 +4,8 @@ import Footer from '../components/footer'
 import NewSimForm from '../components/new-sim/newsim-form'
 
 export default function NewSim() {
-  
+
+
     return (
       <>
       <Head>
