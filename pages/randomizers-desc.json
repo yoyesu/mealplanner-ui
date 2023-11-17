@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "randomizerName": "Plans",
+        "description": "Check all your meal plans to date.",
+        "href": "/starter-household",
+        "btnName": "See All"
+    },
+    {
+        "id": 2,
+        "randomizerName": "Dishes",
+        "description": "Check all the dishes in your recipe book.",
+        "href": "/legacy-household",
+        "btnName": "See All"
+    },
+    {
+        "id": 3,
+        "randomizerName": "Categories",
+        "description": "Check all the types of food.",
+        "href": "/new-sim",
+        "btnName": "See All"
+    }
+]
