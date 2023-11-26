@@ -23,11 +23,17 @@ export default function Navbar() {
          <div className="navbar-nav">
              <a href="/" className="nav-item nav-link">Home</a>
           
-             <a href="/starter-household" className="nav-item nav-link">Plans</a>
+             <a href="/see-all" className="nav-item nav-link">All Plans</a>
 
-             <a href="/legacy-household" className="nav-item nav-link">Dishes</a>
+             <a href="/see-all" className="nav-item nav-link">All Dishes</a>
 
-             <a href="/new-sim" className="nav-item nav-link">Categories</a>
+             <a href="/see-all" className="nav-item nav-link">All Categories</a>
+
+             <a href="/add-new" className="nav-item nav-link">Add Meal Plan</a>
+
+             <a href="/add-new" className="nav-item nav-link">Add Dish</a>
+
+             <a href="/add-new" className="nav-item nav-link">Add Category</a>
 
          </div>
        </div>
